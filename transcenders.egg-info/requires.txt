@@ -1,0 +1,8 @@
+pennylane
+torch
+numpy
+fastapi
+uvicorn
+pydantic
+rich
+requests

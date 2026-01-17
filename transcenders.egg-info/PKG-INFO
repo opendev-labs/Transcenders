@@ -1,0 +1,14 @@
+Metadata-Version: 2.4
+Name: transcenders
+Version: 1.0.0
+Summary: The Ultimate Quantum System - Superior to Transformers
+Requires-Dist: pennylane
+Requires-Dist: torch
+Requires-Dist: numpy
+Requires-Dist: fastapi
+Requires-Dist: uvicorn
+Requires-Dist: pydantic
+Requires-Dist: rich
+Requires-Dist: requests
+Dynamic: requires-dist
+Dynamic: summary

@@ -1,0 +1,2 @@
+[console_scripts]
+transcenders = transcenders.cli:main
